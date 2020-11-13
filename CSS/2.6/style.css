@@ -1,0 +1,22 @@
+.Rubrik1 {
+    height: 50px;
+    color: white;
+    background-color: Black;
+}
+
+.Rubrik2 {
+    height: 50px;
+    color: white;
+    background-color: gray;
+}
+
+.Rubrik3 {
+    height: 50px;
+    color: white;
+    background-color: gray;
+}
+p {
+    background-color: lightgray;
+    color: black;
+    margin: 0px;
+}
