@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+    color:white;
+}
+.mydiv {
+    margin-bottom: 15px;
+    background-color: black;
+}
+.mydiv2 {
+    margin-bottom: 15px;
+    width: 50%;
+    background-color: gray;
+}
+.mydiv3 {
+    margin-bottom: 15px;
+    background-color:darkgray;
+    width: 25%;
+}
+.mydiv4{
+    margin-bottom: 15px;
+    background-color: red;
+    width: 500px;
+}
+.mydiv5{
+    margin-bottom: 15px;
+    background-color: blue;
+    width: 250px;
+}
