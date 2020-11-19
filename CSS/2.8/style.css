@@ -1,0 +1,32 @@
+body {
+    color: white;
+}
+.marginbox{
+    background-color: black;
+    margin: 30px;
+    width: 200px;
+    height: 50px;
+
+}
+.paddingbox {
+    background-color: black;
+    padding: 10px;
+    height: 50px;
+    width: 200px;
+}
+.borderbox{
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    border: 10px solid red;
+
+}
+
+.allt {
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    margin: 20px;
+    padding: 10px;
+    border: 10px solid red;
+}
