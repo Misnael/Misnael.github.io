@@ -1,0 +1,15 @@
+.parent{
+    width: 500px;
+    height: 250px;
+    display: flex;
+}
+
+body{
+    color: black;
+}
+.Children{
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+
+}
