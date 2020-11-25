@@ -1,0 +1,27 @@
+body{
+    margin: 0px ;
+}
+
+.Flexcontainer{
+    display:flex;
+
+}
+
+.b{
+    height: 100vh;
+    width: 33%;
+    background-color: black;
+}
+
+.y{
+    height: 100vh;
+    width: 33%;
+    background-color: yellow;
+}
+
+.r{
+    height: 100vh;
+    width: 34%;
+    background-color: red;
+}
+
