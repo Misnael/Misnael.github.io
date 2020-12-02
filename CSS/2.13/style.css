@@ -1,0 +1,13 @@
+body{
+    color: black;
+    text-align: center;
+
+}
+
+.Parent{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
