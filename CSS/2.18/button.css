@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.button{
+    display: inline-flex;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 5px 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.--red{
+    border-color: red;
+    color: red;
+}
+
+.--green{
+    border-color: green;
+    color: green;
+}
+
+.--blue{
+    border-color: blue;
+    color: blue;
+}
+
+.button:hover{
+    background-color: black;
+    color: white;
+}
+
+.--red:hover{
+    background-color: red;
+}
+
+.--green:hover{
+    background-color: green;
+}
+
+.--blue:hover{
+    background-color: blue;
+}
