@@ -1,0 +1,27 @@
+.body{
+    margin: 0px;
+}
+
+.Yourmom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.Knapp{
+    display: inline-flex;
+    padding: 5px 8px;
+    border-radius: 900px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: red;
+    border: 1px solid red;
+    font-family: sans-serif;
+}
+
+.Knapp:hover{
+    background-color: red;
+    color: white;
+}
