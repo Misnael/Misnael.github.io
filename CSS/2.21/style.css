@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif;
+    color: white;
+    margin: 0px;
+}
+
+nav{
+    display: flex;
+    background-color: black;
+    width: 101%;
+    height: 55px;
+}
+
+.Yourmom{
+    display: flex;
+    flex-direction: column;
+    height:50px;
+    width: 500px;
+    justify-content: center;
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: 300px;
+}
+
+p{
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 9px;
+}
+
+.Yourdad{
+    margin-left: 300px;
+    display: flex;
+    float: right;
+    width: 550px;
+    height: 50px;
+}
+
+a{
+    display: flex;
+    margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: 300px;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+ box-shadow: 0px 5px red;
+}
