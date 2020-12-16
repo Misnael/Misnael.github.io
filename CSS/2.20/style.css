@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    background-color: lightgray;
+    font-family: sans-serif;
+    display: flex;
+}
+
+.parent{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Rekt{
+    background-color: white;
+    display: flex; 
+    flex-direction: column;
+    border: 60px solid white;
+    border-radius: 5px;
+    width: 300px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    box-shadow: grey 1px 1px 10px;
+}
+
+.BitchImACow{
+    background-image: url("cow\ \(2\).jpg");
+    border-radius: 610009px;
+    background-size: 100% 100%;
+    width: 175px;
+    height: 200px;
+    box-shadow: inset grey 1px 1px 5px;
+}
+
+.text{
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color:grey;
+}
+
+hr{
+    width: 40px;
+}
+
+h1{
+    font-weight: lighter;
+    color: black;
+}
